@@ -14,7 +14,7 @@ std::string fileName;
 std::string input;
 
 // This is a simple text editor I made to learn some more stuff, like ReadConsoleInput and Message boxes
-// I need to learn arrow keys so you can edit opened files
+// I need to add arrow keys so you can edit opened files
 // This is my first bigger C++ project so the code is a bit messy
 
 // TODO:
